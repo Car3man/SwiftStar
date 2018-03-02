@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C6C5B4FE-C9E1-4033-5708-9976A9B66DB8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Test/ClearancePathfindingDebug/BotController.cs">
+    <Files>
+      <File FileName="Assets/SwiftStar/Models/Node.cs" Line="10" Column="25" />
+      <File FileName="Assets/SwiftStar/Core/SwiftStar.cs" Line="97" Column="82" />
+      <File FileName="Assets/SwiftStar/Models/NavBody.cs" Line="6" Column="5" />
+      <File FileName="Assets/Test/ClearanceDebug/ClearanceDebug.cs" Line="16" Column="1" />
+      <File FileName="Assets/Test/ClearancePathfindingDebug/ClearancePathFindingDebug.cs" Line="95" Column="43" />
+      <File FileName="Assets/Test/ClearancePathfindingDebug/BotController.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/car3man/Projects/ClearanceTest/ClearanceTest/Assets/Test.cs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwiftStar PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

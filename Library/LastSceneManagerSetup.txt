@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Test/ClearancePathfindingDebug/ClearancePathFindingDebug.unity
+  isLoaded: 1
+  isActive: 1
